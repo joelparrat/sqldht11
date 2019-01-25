@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Jojo\\Sqldht11\\" : "src"
+		}
+	},
+	"name" : "Jojo/dht11",
+	"require" : {
+		"php" : ">=7.1"
+	}
+}
